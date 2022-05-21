@@ -1,0 +1,47 @@
+# ignore these folders:
+/.atom/
+/.buildlog/
+/.dart_tool/
+/.pub-cache/
+/.pub/
+/.svn/
+/build/
+/migrate_working_dir/
+
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+/lib/generated_plugin_registrant.dart
+
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+
+# ignore these files:
+.ds_store
+.history
+*.class
+*.env
+*.iml
+*.ipr
+*.iws
+*.log
+*.pyc
+*.swp
+
+app.*.symbols
+app.*.map.json
+
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# --------------------
+
+# include these folders:
+!/.idea/
+!/.vscode/
+
+
+# include these files:
